@@ -1,0 +1,19 @@
+{
+    "name": "sanyc/hash",
+    "description": "hash加密解密",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "sanyc",
+            "email": "9714928@qq.com"
+        }
+    ],
+    "require": {
+        "php":">=5.4"
+    },
+    "autoload":{
+        "psr-4": {
+            "Sanyc\\Hash\\": ""
+        }
+    }
+}
